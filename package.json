@@ -1,0 +1,13 @@
+{
+  "name": "@theluckystrike/$lib",
+  "version": "1.0.0",
+  "description": "Chrome Extension Library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["chrome-extension"],
+  "license": "MIT"
+}
